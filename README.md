@@ -216,8 +216,6 @@ Este repositório representa minha evolução contínua como desenvolvedor e faz
 
 ---
 
-⭐ **Este repositório será atualizado continuamente conforme avanço nos estudos.**
-
 # 🤝 Feedbacks e Contribuições
 
 Este repositório representa minha jornada de aprendizado em C# e .NET.
@@ -227,3 +225,5 @@ Estou sempre aberto a receber feedbacks, sugestões de melhorias e discussões s
 Caso encontre alguma melhoria, sugestão ou tenha alguma observação sobre os projetos e documentações, fique à vontade para abrir uma Issue ou entrar em contato.
 
 Toda contribuição construtiva será bem-vinda.
+
+⭐ **Este repositório será atualizado continuamente conforme avanço nos estudos.**
