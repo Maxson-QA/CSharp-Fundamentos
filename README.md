@@ -220,7 +220,7 @@ Este repositório representa minha evolução contínua como desenvolvedor e faz
 
 Este repositório representa minha jornada de aprendizado em C# e .NET.
 
-Estou sempre aberto a receber feedbacks, sugestões de melhorias e discussões sobre os conteúdos apresentados. Acredito que a troca de conhecimento é uma das melhores formas de evoluir como desenvolvedor.
+Estou sempre aberto a receber feedbacks, sugestões de melhorias e discussões sobre os conteúdos apresentados. 
 
 Caso encontre alguma melhoria, sugestão ou tenha alguma observação sobre os projetos e documentações, fique à vontade para abrir uma Issue ou entrar em contato.
 
