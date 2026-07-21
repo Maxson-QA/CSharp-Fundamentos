@@ -153,7 +153,7 @@ Durante esta jornada utilizo diferentes fontes para estudar e validar os conceit
 ## 🎥 Conteúdo Complementar
 
 - [🎥 André Baltieri (Balta)](https://www.youtube.com/@baltaio)
-- [🎥 Macoratti](https://www.youtube.com/@Macoratti)
+- [🎥 Macoratti](https://www.youtube.com/@josecarlosmacoratti)
 - [🎥 Código Fonte TV](https://www.youtube.com/@codigofontetv)
 
 ---
