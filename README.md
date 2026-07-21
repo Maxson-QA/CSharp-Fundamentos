@@ -1,5 +1,14 @@
 # 📘 Learning C#
 
+🟣 C#
+🟣 .NET
+🟣 Visual Studio
+🟣 Git
+🟣 GitHub
+🟣 Windows
+
+Status: 🚧 Em desenvolvimento
+
 > **Aprender programação vai muito além de escrever código.**
 >
 > Este repositório documenta minha evolução no ecossistema **C#** e **.NET**, registrando teoria, prática, exercícios, desafios e projetos desenvolvidos durante meus estudos.
