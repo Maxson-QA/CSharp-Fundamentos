@@ -1,59 +1,45 @@
 # 📘 Learning C#
 
-> Repositório dedicado à minha jornada de aprendizado em **C#** e **.NET**, reunindo teoria, prática, documentação e projetos desenvolvidos durante os estudos.
+> **Aprender programação vai muito além de escrever código.**
+>
+> Este repositório documenta minha evolução no ecossistema **C#** e **.NET**, registrando teoria, prática, exercícios, desafios e projetos desenvolvidos durante meus estudos.
+>
+> Meu objetivo é construir uma base sólida na linguagem, compreender boas práticas de desenvolvimento e desenvolver aplicações desktop profissionais utilizando .NET.
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivos
 
-Este repositório foi criado para registrar minha evolução como desenvolvedor C#. Aqui compartilho não apenas o código produzido, mas também o processo de aprendizagem por meio de anotações, exercícios, desafios e projetos práticos.
-
-Meu objetivo é construir uma base sólida na linguagem e na plataforma .NET para o desenvolvimento de aplicações desktop e, futuramente, sistemas mais completos.
+- Aprender C# de forma sólida.
+- Dominar os fundamentos da plataforma .NET.
+- Desenvolver aplicações Desktop utilizando WPF.
+- Aprender Banco de Dados e Entity Framework.
+- Construir projetos para portfólio.
+- Documentar toda a evolução durante os estudos.
 
 ---
 
-## 📚 Metodologia de Estudo
+# 📚 Metodologia de Estudo
 
-Cada módulo deste repositório segue uma metodologia de aprendizado baseada em quatro pilares:
+Cada módulo deste repositório segue uma metodologia baseada em estudo ativo.
+
+Cada assunto é dividido em:
 
 - 📖 Estudo da teoria
 - 💻 Implementação prática
-- 🧩 Exercícios e desafios
-- 📝 Documentação do aprendizado
+- 🧩 Exercícios
+- 🚀 Mini Projetos
+- 📝 Documentação
+- 🔄 Revisão
+- 📂 Versionamento no GitHub
 
-A proposta é compreender os conceitos antes de aplicá-los, buscando escrever código de forma consciente e entender o motivo das decisões tomadas durante o desenvolvimento.
-
----
-
-## 🗂️ Estrutura do Repositório
-
-```text
-LearningCSharp/
-│
-├── 01-Fundamentos/
-│
-├── 02-ProgramacaoOrientadaObjetos/
-│
-├── 03-Colecoes/
-│
-├── 04-LINQ/
-│
-├── 05-BancoDeDados/
-│
-├── 06-EntityFramework/
-│
-├── 07-WPF/
-│
-└── 08-ProjetoFinal/
-```
-
-Cada módulo possui sua própria documentação, exemplos de código, exercícios e pequenos projetos.
+Todo conteúdo é documentado utilizando minhas próprias palavras para consolidar o aprendizado.
 
 ---
 
-## 🛣️ Roadmap
+# 🛣️ Roadmap
 
-### 📖 Fundamentos
+## 📖 01 - Fundamentos
 
 - [x] Introdução
 - [ ] Variáveis
@@ -65,7 +51,9 @@ Cada módulo possui sua própria documentação, exemplos de código, exercício
 - [ ] Métodos
 - [ ] Projeto Final
 
-### 🧩 Programação Orientada a Objetos
+---
+
+## 🧩 02 - Programação Orientada a Objetos
 
 - [ ] Classes
 - [ ] Objetos
@@ -75,27 +63,35 @@ Cada módulo possui sua própria documentação, exemplos de código, exercício
 - [ ] Interfaces
 - [ ] Projeto Final
 
-### 📚 Coleções
+---
+
+## 📚 03 - Coleções
 
 - [ ] Arrays
 - [ ] List
 - [ ] Dictionary
 - [ ] HashSet
 
-### 🔍 LINQ
+---
+
+## 🔍 04 - LINQ
 
 - [ ] Consultas
 - [ ] Ordenação
 - [ ] Filtros
 - [ ] Projeções
 
-### 🗄️ Banco de Dados
+---
+
+## 🗄️ 05 - Banco de Dados
 
 - [ ] SQL Server
 - [ ] Entity Framework Core
 - [ ] CRUD
 
-### 🖥️ Desktop
+---
+
+## 🖥️ 06 - Desktop
 
 - [ ] WPF
 - [ ] MVVM
@@ -103,49 +99,112 @@ Cada módulo possui sua própria documentação, exemplos de código, exercício
 
 ---
 
-## 📖 Como cada módulo está organizado
+# 📂 Estrutura do Repositório
 
-Cada assunto estudado possui:
+```text
+LearningCSharp
+│
+├── README.md
+│
+├── 01-Fundamentos
+│   ├── 01-Introducao
+│   ├── 02-Variaveis
+│   ├── 03-TiposDeDados
+│   ├── ...
+│
+├── 02-ProgramacaoOrientadaObjetos
+│
+├── 03-Colecoes
+│
+├── 04-LINQ
+│
+├── 05-BancoDeDados
+│
+├── 06-EntityFramework
+│
+├── 07-WPF
+│
+└── 08-ProjetoFinal
+```
 
-- Explicação do conceito
-- Código comentado
-- Exercícios resolvidos
-- Desafios práticos
-- Mini projeto
-- README documentando o aprendizado
+Cada pasta contém:
 
-O objetivo é que cada pasta represente um passo da minha evolução durante os estudos.
+- 📖 README da aula
+- 💻 Código comentado
+- 📝 Exercícios
+- 🚀 Mini Projeto
+- 📚 Referências
 
 ---
 
-## 📚 Materiais de Estudo
+# 📚 Materiais de Estudo
 
-Durante o desenvolvimento deste repositório utilizo diferentes fontes de aprendizado, buscando sempre comparar explicações e validar os conceitos estudados.
+Durante esta jornada utilizo diferentes fontes para estudar e validar os conceitos aprendidos.
 
-As principais referências são:
+## 📖 Documentação Oficial
 
-- Documentação Oficial da Microsoft
-- Microsoft Learn
-- André Baltieri (Balta)
-- Macoratti
-- Livros e artigos técnicos sobre C# e .NET
+- [📘 Documentação Oficial do .NET](https://learn.microsoft.com/dotnet/)
+- [📘 Guia Oficial da Linguagem C#](https://learn.microsoft.com/dotnet/csharp/)
+- [📘 Microsoft Learn - Aprenda C#](https://dotnet.microsoft.com/learn/csharp)
+- [📘 Microsoft Learn](https://learn.microsoft.com/training/)
 
-Além disso, utilizo ferramentas de Inteligência Artificial como apoio ao aprendizado para:
+---
+
+## 🎥 Conteúdo Complementar
+
+- [🎥 André Baltieri (Balta)](https://www.youtube.com/@baltaio)
+- [🎥 Macoratti](https://www.youtube.com/@Macoratti)
+- [🎥 Código Fonte TV](https://www.youtube.com/@codigofontetv)
+
+---
+
+## 📚 Livros
+
+- **C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals**
+  - Autor: Mark J. Price
+
+---
+
+# 🤖 Utilização de Inteligência Artificial
+
+Ferramentas de IA fazem parte do meu processo de aprendizado como apoio aos estudos.
+
+Elas são utilizadas para:
 
 - esclarecer dúvidas técnicas;
-- revisar explicações;
+- revisar textos e documentação;
 - sugerir melhorias na organização dos estudos;
 - propor exercícios e desafios;
-- revisar a documentação produzida.
+- comparar abordagens para resolução de problemas.
 
-Todo o conteúdo publicado é estudado, implementado, testado e reescrito com minhas próprias palavras antes de ser adicionado ao repositório.
-
----
-
-## 🚀 Objetivo Final
-
-Ao concluir esta jornada pretendo ser capaz de desenvolver aplicações desktop utilizando C# e .NET aplicando boas práticas de desenvolvimento, arquitetura de software e documentação, mantendo este repositório como registro da minha evolução e como parte do meu portfólio profissional.
+Todo conteúdo deste repositório foi estudado, implementado, testado e posteriormente documentado com minhas próprias palavras antes de ser publicado.
 
 ---
 
-⭐ Este repositório será atualizado continuamente conforme avanço nos estudos.
+# 💡 Como utilizar este repositório
+
+Caso você também esteja aprendendo C#, recomendo seguir os módulos na ordem apresentada.
+
+Cada aula possui:
+
+- Objetivo
+- Explicação do conceito
+- Código comentado
+- Exercícios
+- Mini Projeto
+- Referências utilizadas durante o estudo
+- Próximos passos
+
+Assim, além de acompanhar minha evolução, este repositório também pode servir como material de apoio para outros estudantes.
+
+---
+
+# 🚀 Objetivo Final
+
+Ao final desta jornada pretendo desenvolver aplicações desktop profissionais utilizando C# e .NET, aplicando boas práticas de desenvolvimento, arquitetura de software e documentação.
+
+Este repositório representa minha evolução contínua como desenvolvedor e faz parte do meu portfólio profissional.
+
+---
+
+⭐ **Este repositório será atualizado continuamente conforme avanço nos estudos.**
