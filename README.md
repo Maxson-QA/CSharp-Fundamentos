@@ -1,11 +1,11 @@
 # 📘 Learning C#
 
->🟣 C#
->🟣 .NET
->🟣 Visual Studio
->🟣 Git
->🟣 GitHub
->🟣 Windows
+>🟣 C#.
+>🟣 .NET.
+>🟣 Visual Studio.
+>🟣 Git.
+>🟣 GitHub.
+>🟣 Windows.
 
 Status: 🚧 Em desenvolvimento
 
